@@ -3,7 +3,7 @@
 //  Hyaku
 //
 //  Created by Tiago Almeida de Oliveira on 10/05/21.
-//  Copyright © 2021 Cielo. All rights reserved.
+//  Copyright © 2021 Tiago Almeida de Oliveira. All rights reserved.
 //
 
 import Foundation
